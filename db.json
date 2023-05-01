@@ -1,0 +1,119 @@
+{
+  "presenters": [
+    {
+      "gamePresenter": "Player1",
+      "shift": "morning",
+      "id": 2
+    },
+    {
+      "gamePresenter": "Player1",
+      "shift": "evening",
+      "id": 5
+    },
+    {
+      "gamePresenter": "Player2",
+      "shift": "evening",
+      "id": 7
+    },
+    {
+      "gamePresenter": "Player3",
+      "shift": "evening",
+      "id": 8
+    },
+    {
+      "gamePresenter": "Player1",
+      "shift": "night",
+      "id": 9
+    },
+    {
+      "gamePresenter": "Player2",
+      "shift": "night",
+      "id": 10
+    },
+    {
+      "gamePresenter": "Player4",
+      "shift": "evening",
+      "id": 14
+    },
+    {
+      "gamePresenter": "Player3",
+      "shift": "night",
+      "id": 17
+    },
+    {
+      "gamePresenter": "Player2",
+      "shift": "morning",
+      "id": 49
+    },
+    {
+      "gamePresenter": "Player3",
+      "shift": "morning",
+      "id": 53
+    },
+    {
+      "gamePresenter": "Player4",
+      "shift": "morning",
+      "id": 54
+    },
+    {
+      "gamePresenter": "Player4",
+      "shift": "night",
+      "id": 58
+    }
+  ],
+  "tables": [
+    {
+      "table": "Table2",
+      "id": 80
+    },
+    {
+      "table": "Table2",
+      "id": 81
+    },
+    {
+      "table": "Table1",
+      "shift": "morning",
+      "id": 82
+    },
+    {
+      "table": "Table3",
+      "shift": "morning",
+      "id": 83
+    },
+    {
+      "table": "Table1",
+      "shift": "evening",
+      "id": 84
+    },
+    {
+      "table": "Table2",
+      "shift": "evening",
+      "id": 85
+    },
+    {
+      "table": "Table2",
+      "shift": "morning",
+      "id": 86
+    },
+    {
+      "table": "Table1",
+      "shift": "night",
+      "id": 89
+    },
+    {
+      "table": "Table2",
+      "shift": "night",
+      "id": 90
+    },
+    {
+      "table": "Table3",
+      "shift": "night",
+      "id": 91
+    },
+    {
+      "table": "Table3",
+      "shift": "evening",
+      "id": 92
+    }
+  ]
+}
