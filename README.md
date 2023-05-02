@@ -24,9 +24,9 @@ password: happy123
 ---- ---- --- ----
 things to improve:
 - It was a fun project and for improvements, i would consider restructuring the backend even more in depth and layered.
-- Would love to do the styling and responsiveness to see the final project come to life with animations and
+- Would love to do the styling and responsiveness to see the final project come to life with animations and looks
 - Docker seemed to be bugging out on my project, so i decided not to do it, was burning through my limited time. Personally I have not been using it on any other projects or at work. I suppose something to research and troubleshoot later.
-- Even better more readable and efficient code, better architecture, memoized component rendering and performance improvement & more. Defintely begs more time for that to work on free time
+- Even better more readable and efficient code, better architecture, memoized component rendering and performance improvement & more. Defintely begs more work for that on free time
 - 100% unit test covering
 
 ```
