@@ -92,7 +92,9 @@ const TablesControls: React.FC<TablesControlsProps> = ({
           shift: handleShiftName(shiftIndex),
         }).then(() => refetch());
       } else {
-        throw setDefaultError('Maximum number of tables on a given shift is 4');
+        throw setDefaultError(
+          'There always needs to be +1 game presenter in ratio to tables'
+        );
       }
     } catch (error) {
       console.log('An error has occurred');
