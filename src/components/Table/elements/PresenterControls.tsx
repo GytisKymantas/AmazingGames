@@ -126,8 +126,6 @@ const PresenterControls: React.FC<PresenterControlProps> = ({
         (player) =>
           player.gamePresenter === changeName && player.shift === shift
       );
-      console.log(playersResponse, 'players response');
-      console.log(changeName, 'changeName');
 
       if (!isNameExists) {
         const id = getPlayerIdByName(playersResponse, obj, shift);

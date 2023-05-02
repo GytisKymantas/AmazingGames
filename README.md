@@ -5,14 +5,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+npm run dev (starts additionally the backend)
 # or
 yarn dev
 # or
 pnpm dev
-```
 
-then run start:server to start up the back-end
+authentication is
+account name: admin
+password: happy123
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
