@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+in total you should have two terminals open on code editor
 First, open a terminal and npm run start:server ( needs to be active)
 then open a new terminal and write npm run dev (needs to be active)
 # or
@@ -12,10 +13,22 @@ yarn dev
 # or
 pnpm dev
 
+additionally,
+npm run test <--- to run tests
+
 
 authentication is
+--- ----  ----  --
 account name: admin
 password: happy123
+---- ---- --- ----
+things to improve:
+- It was a fun project and for improvements, i would consider restructuring the backend even more in depth and layered.
+- Would love to do the styling and responsiveness to see the final project come to life with animations and
+- Docker seemed to be bugging out on my project, so i decided not to do it, was burning through my limited time. Personally I have not been using it on any other projects or at work. I suppose something to research and troubleshoot later.
+- Even better more readable and efficient code, better architecture, memoized component rendering and performance improvement & more. Defintely begs more time for that to work on free time
+- 100% unit test covering
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
