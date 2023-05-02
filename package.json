@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node index.js",
+    "start": "next dev",
     "test": "jest",
     "build": "next build",
     "start:server": "json-server db.json --port 8080  --delay 1000",

@@ -5,11 +5,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev (starts additionally the backend)
+First, open a terminal and npm run start:server ( needs to be active)
+then open a new terminal and write npm run dev (needs to be active)
 # or
 yarn dev
 # or
 pnpm dev
+
 
 authentication is
 account name: admin
